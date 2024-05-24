@@ -16,7 +16,6 @@ This setup allows you to run the KDX application on an Ubuntu 22.04 server while
 
 3. **Initialization Scripts**:
    - **start.sh**: Prepares the environment by setting up necessary directories and permissions for SSH.
-   - **dbus.sh**: Configures and starts the D-Bus service.
    - **kdx-init.sh**: Sets environment variables, starts a virtual display using Xvfb, and launches KDX.
    - **ssh-monitor.sh**: Monitors SSH connections and dynamically transfers the display output to the remote user's display upon connection, and reverts back when the connection is closed.
 
