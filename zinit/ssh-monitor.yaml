@@ -1,0 +1,4 @@
+exec: /ssh-monitor.sh
+after:
+  - kdx
+log: stdout

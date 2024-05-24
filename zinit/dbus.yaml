@@ -1,0 +1,4 @@
+exec: /dbus.sh
+oneshot: true
+monitor: dbus
+log: stdout

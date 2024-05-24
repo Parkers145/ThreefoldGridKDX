@@ -1,0 +1,5 @@
+exec: /start.sh
+oneshot: true
+after:
+  - sshd
+log: stdout

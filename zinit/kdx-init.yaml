@@ -1,0 +1,5 @@
+exec: /kdx-init.sh
+oneshot: true
+after:
+  - dbus
+log: stdout
