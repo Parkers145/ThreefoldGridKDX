@@ -56,4 +56,4 @@ To build and run the Docker image, follow these steps:
 
 ## Conclusion
 
-This Docker setup provides a streamlined way to run KDX on an Ubuntu 22.04 server and access its GUI remotely via SSH. By leveraging Zinit and custom initialization scripts, the setup ensures that all necessary services are started and managed correctly, providing a robust and flexible solution for remote GUI access.
+This Docker setup aims to provide a streamlined way to run KDX on an Ubuntu 22.04 server and access its GUI remotely via SSH. By leveraging Zinit and custom initialization scripts, the setup ensures that all necessary services are started and managed correctly, providing a robust and flexible solution for remote GUI access.
